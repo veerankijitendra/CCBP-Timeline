@@ -1,0 +1,28 @@
+.title-duration-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  display: flex;
+  align-items: center;
+}
+.tag-list-con {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+}
+.duration-icon-con {
+  display: flex;
+  align-items: center;
+}
+.tag-item {
+  margin-left: 16px;
+  /* border: 1px solid blue; */
+  flex-shrink: 0;
+  font-weight: 600;
+}
+.duration {
+  font-weight: 500;
+}

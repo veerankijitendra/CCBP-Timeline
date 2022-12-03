@@ -1,0 +1,29 @@
+/* .ptl-card {
+} */
+.project-image {
+  width: 100%;
+}
+.project-title-duration-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/* .project-title {
+} */
+.duration-icon-con {
+  display: flex;
+  align-items: center;
+}
+/* .duration {
+}
+.description {
+} */
+.visit-button {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+  font-size: 18px;
+  font-weight: 700;
+  text-decoration: none;
+}
